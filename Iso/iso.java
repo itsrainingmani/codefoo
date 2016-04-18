@@ -317,8 +317,8 @@ public class iso {
         Calendar cal = Calendar.getInstance();
         //System.out.println(cal.getTime());
         init(monthMap);
-        parse("2016-20-03T16:05:07-08:00", cal);
-
+        
+        //Various input string configurations
         /*
         3/20/2016
         4:05:07 PM
@@ -341,6 +341,8 @@ public class iso {
         20 March 2016
         2016-20-03T16:05:07-08:00
         */
+        //Modify this input parameter to see the ISO 8601 string
+        parse("3/20/2016", cal);
 
         Date date = cal.getTime();
         System.out.println(isoFormat.format(date));
