@@ -1,0 +1,56 @@
+Question 2 - 
+
+Some quick measurements - All of these are approximate values to facilitate easier construction
+
+Lego Bricks:
+Length - 3 cm
+Width - 1.5 cm
+Height - 1 cm
+
+Hence the volume of a single lego brick is 4.5 x 10^-6 cubic meters.
+This will be very useful later on.
+
+Golden gate bridge dimensions :
+Length of suspension span including main span and side spans is - 2000 m
+Width of bridge - 25 m
+Height of tower - 230 m
+
+Let's start calculating!
+
+First the road of the bridge itself - 
+The road is 2000m long and is 25m wide. I estimate the depth of the road to be 1 meter.
+The volume of the road is 2000m x 25m x 1m = 50,000 cubic meters.
+We divide this by the volume of a single lego brick to get the number of bricks required for the road.
+
+Number of bricks = 50,000 cubic meters / 4.5 x 10^-6 cubic meters = approximately 11 billion bricks!
+We double this to 22 billion bricks to account for the metallic structures under the road.
+
+Now we calculate the bricks in the towers - 
+We kniw that the height of each tower is 230m. I estimate the width of the pillar to be approximately 20m
+based on how it looks compared to the width of the road. 
+The width varies from the bottom to the top but it will be easier to consider a fixed width. The length of the cross-
+section of the tower looks to be about twice the size of the width = 40m.
+The volume of each tower is 20m x 40m x 230m = 184,000 cubic meters. there are 4 towers of similar dimensions. So the
+combined volume is 736,000 cubic meters. 
+
+Number of bricks = 736,000 cubic meters / 4.5 x 10^-6 cubic meters. This comes out to a whopping 163.5 billion bricks.
+
+Lastly we consider the horizontal blocks joining the tower pairs.
+
+We know that the width of the block is about 20m (Width of the road from curb to curb. Not the width of the bridge).
+The length looks to be about a 4th of the length of the tower. So the length is 10m. The height also looks to be about 20m.
+I'm a little unsure about the measurements on this one.
+
+So anyway, let's get calculating!
+Volume of individual block - 20m x 10m x 20m = 4000 cubic meters.
+There are 8 of these blocks (4 per tower pair). Total volume - 4000 x 8 = 32,000 cubic meters.
+
+Number of bricks = 32,000 cubic meters / 4.5 x 10^-6 cubic meters = 7 billion bricks.
+
+Hence the total number of bricks is 193 billion bricks (with a pretty decent margin of error).
+
+Bonus - 
+I really wanted to calculate how much it would cost for this lego brick bridge to be built. So let's get cracking.
+According to the official lego web shop, the standard 2x4 brick which we are using costs 30 cents per unit. So to buy
+193 billion bricks we would need $57.8 billion. Wow!. The actual Golden Gate bridge cost $27 million which is equivalent
+to $1.5 billion today. So our lego bridge is 39 times more expensive. Hope the Avengers never visit San Francisco!
