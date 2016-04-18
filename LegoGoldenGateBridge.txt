@@ -53,4 +53,5 @@ Bonus -
 I really wanted to calculate how much it would cost for this lego brick bridge to be built. So let's get cracking.
 According to the official lego web shop, the standard 2x4 brick which we are using costs 30 cents per unit. So to buy
 193 billion bricks we would need $57.8 billion. Wow!. The actual Golden Gate bridge cost $27 million which is equivalent
-to $1.5 billion today. So our lego bridge is 39 times more expensive. Hope the Avengers never visit San Francisco!
+to $1.5 billion today. So our lego bridge is 39 times more expensive. For legos that expensive they'd better be reinforced
+with Vibranium. Hope the Avengers never visit San Francisco!
